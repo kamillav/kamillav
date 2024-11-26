@@ -38,4 +38,27 @@ Full-ride Scholar & Student Leader - Trinity College || Art Sphere Creator || Co
 - **Flask**
 - **JetBrains Intellij IDEA**
 
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 30%; padding: 10px;">
+    **Column 1**  
+    - Text or content for column 1  
+    - Another point in column 1  
+    - More text for column 1
+  </div>
+
+  <div style="width: 30%; padding: 10px;">
+    **Column 2**  
+    - Text or content for column 2  
+    - Another point in column 2  
+    - More text for column 2
+  </div>
+
+  <div style="width: 30%; padding: 10px;">
+    **Column 3**  
+    - Text or content for column 3  
+    - Another point in column 3  
+    - More text for column 3
+  </div>
+</div>
+
 
