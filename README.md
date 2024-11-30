@@ -53,7 +53,7 @@ Here’s a grid of the technologies and skills I’m proficient in:
 |:-----------------------------------:|:-----------------------------------:|:---------------------------------------:|:-------------------------------------:|
 | **RESTful Web Services**            | **React**                            | **Spring Boot**                         | **Flask**                              |
 
-| ![iOS Development](https://img.icons8.com/ios-filled/50/000000/iphone.png) | ![CSS](https://img.icons8.com/ios-filled/50/000000/css3.png) | ![RStudio](https://img.icons8.com/ios-filled/50/000000/rstudio.png) | ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) |
+| ![iOS Development](https://img.icons8.com/ios-filled/50/000000/iphone.png) | ![CSS](https://img.icons8.com/ios-filled/50/000000/css3.png) | ![RStudio](https://www.svgrepo.com/svg/306678/rstudio) | ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) |
 |:---------------------------------:|:---------------------------------:|:------------------------------------:|:-------------------------------:|
 | **iOS Development**               | **CSS**                            | **RStudio**                          | **SQL**                           |
 
