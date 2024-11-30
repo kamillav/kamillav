@@ -13,6 +13,7 @@ Full-ride Scholar & Student Leader - Trinity College || Art Sphere Creator || Co
 - **Computer Systems**
 
 ## 💬 Ask me about
+- **Frontend Development**
 - **Eye Tracking**
 - **Data Analysis in RStudio**
 - **Software Development**
@@ -38,10 +39,20 @@ Full-ride Scholar & Student Leader - Trinity College || Art Sphere Creator || Co
 - **Flask**
 - **JetBrains Intellij IDEA**
 
-| Column 1           | Column 2           | Column 3           |
-|--------------------|--------------------|--------------------|
-| Text or content... | Text or content... | Text or content... |
-| Another point...   | Another point...   | Another point...   |
-| More text...       | More text...       | More text...       |
-
+|   Software Tools   |     Data Tools     |
+|--------------------|--------------------|
+| Text or content... | Text or content... | 
+| Another point...   | Another point...   | 
+| More text...       | More text...       |
+| More text...       | More text...       |
+| More text...       | More text...       |
+| More text...       | More text...       |
+| More text...       | More text...       |
+| More text...       | More text...       |
+| More text...       | More text...       |
+| More text...       | More text...       |
+| More text...       | More text...       |
+| More text...       | More text...       |
+| More text...       | More text...       |
+| More text...       | More text...       |
 
