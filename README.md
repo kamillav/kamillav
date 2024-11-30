@@ -38,21 +38,6 @@ Full-ride Scholar & Student Leader - Trinity College || Art Sphere Creator || Co
 - **React**
 - **Flask**
 - **JetBrains Intellij IDEA**
-
-|   Software Tools   |     Data Tools     |
-|--------------------|--------------------|
-| Text or content... | Text or content... | 
-| Another point...   | Another point...   | 
-| More text...       | More text...       |
-| More text...       | More text...       |
-| More text...       | More text...       |
-| More text...       | More text...       |
-| More text...       | More text...       |
-| More text...       | More text...       |
-| More text...       | More text...       |
-| More text...       | More text...       |
-| More text...       | More text...       |
-| More text...       | More text...       |
-| More text...       | More text...       |
-| More text...       | More text...       |
-
+|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+| Text or content... | Text or content... | More text...       | More text...       | More text...       | More text...       | More text...       | More text...       | More text...       | More text...       | More text...       | More text...       | More text...       | More text...       |
+| Text or content... | Text or content... | More text...       | More text...       | More text...       | More text...       | More text...       | More text...       | More text...       | More text...       | More text...       | More text...       | More text...       | More text...       |
