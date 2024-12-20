@@ -1,6 +1,6 @@
 # Hey, I'm Kamilla Volkova
 
-Full-ride Scholar & Student Leader - Trinity College || Art Sphere Creator || Computer Science & Neuroscience student || Perception, Attention, and Decision Researcher || [kamillav](https://github.com/kamillav)
+Full-ride Scholar & Student Leader - Trinity College || Art Sphere Creator || CS & Neuroscience || Perception Researcher || [kamillav](https://github.com/kamillav)
 
 ## 🔭 I’m currently working on
 - **Art Sphere**
