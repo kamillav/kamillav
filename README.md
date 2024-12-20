@@ -20,7 +20,7 @@ Full-ride Scholar & Student Leader - Trinity College || Art Sphere Creator || CS
 
 ## 📫 How to reach me
 - Email: **kamilla.volkova@trincoll.edu**
-- LinkedIn: [kamillavolkova] (https://www.linkedin.com/in/kamillavolkova/)
+- LinkedIn: [kamillavolkova](https://www.linkedin.com/in/kamillavolkova/)
 
 ## ⚡ Presentations & Honors
 - **Art Sphere** 2nd Best Prize at WesHack | Nov 2024
