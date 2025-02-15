@@ -15,7 +15,7 @@ Full-ride Scholar & Student Leader - Trinity College || Art Sphere Creator || CS
 ## 💬 Ask me about
 - **Frontend Development**
 - **Eye Tracking**
-- **Data Analysis in RStudio**
+- **Data Analysis**
 - **Software Development**
 
 ## 📫 How to reach me
@@ -28,16 +28,13 @@ Full-ride Scholar & Student Leader - Trinity College || Art Sphere Creator || CS
 - **VSS** Poster Presenation | May 2024 
 
 ## 🛠️ Tools and Languages:
-- **Java**
-- **RStudio** (GLME/GLM/MLE)
-- **Ggplot2**
-- **QlikSense**
 - **Python**
+- **RStudio** (GLME/GLM/MLE)
+- **Java**
 - **JavaScript**
+- **Swift**
+- **QlikSense**
 - **CSS**
-- **React**
-- **Flask**
-- **JetBrains Intellij IDEA**
 
 # Technologies & Skills I Work With
 
