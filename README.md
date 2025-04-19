@@ -30,57 +30,64 @@ CS • Data Insights • Predictive Modeling • Python & SQL • VR & Decision 
 
 ## 🛠️ Tools and Languages:
 
-
 ## Programming & Data Analysis
 
-| <img src="https://img.icons8.com/ios-filled/40/000000/python.png" /> | <img src="https://img.icons8.com/ios-filled/40/artificial-intelligence.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/r-project.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/combo-chart.png" /> |
-|:------------------------------:|:-----------------------------------------:|:--------------------------------------:|:-------------------------------------:|
-| **Python**                    | **PyTorch**                                | **RStudio**                            | **Statistical Modeling**              |
+| <img src="https://img.icons8.com/ios-filled/40/000000/python.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/artificial-intelligence.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/r-project.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/combo-chart.png"/> |
+|:-----------------------------:|:-------------------------------------:|:----------------------------------:|:----------------------------------:|
+| **Python**                   | **PyTorch**                           | **RStudio**                        | **Statistical Modeling**           |
 
-| <img src="https://img.icons8.com/ios-filled/40/000000/api.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/brain.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/flask.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/spring-logo.png" /> |
-|:----------------------------:|:-----------------------------------------:|:--------------------------------------:|:-------------------------------------:|
-| **RESTful APIs**             | **AI APIs**                               | **Flask**                              | **Spring Boot**                       |
+| <img src="https://img.icons8.com/ios-filled/40/000000/api.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/brain.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/flask.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/spring-logo.png"/> |
+|:----------------------------:|:-------------------------------------:|:----------------------------------:|:----------------------------------:|
+| **RESTful APIs**            | **AI APIs**                           | **Flask**                          | **Spring Boot**                    |
 
-| <img src="https://img.icons8.com/ios-filled/40/000000/java-coffee-cup-logo.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/kotlin.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/javascript.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/sql.png" /> |
-|:-----------------------------:|:--------------------------------------:|:--------------------------------------:|:------------------------------:|
-| **Java**                      | **Kotlin**                             | **JavaScript**                        | **SQL**                       |
+| <img src="https://img.icons8.com/ios-filled/40/000000/java-coffee-cup-logo.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/kotlin.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/javascript.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/sql.png"/> |
+|:----------------------------:|:-------------------------------------:|:----------------------------------:|:----------------------------------:|
+| **Java**                    | **Kotlin**                            | **JavaScript**                     | **SQL**                            |
 
-| <img src="https://img.icons8.com/ios-filled/40/000000/react-native.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/iphone.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/css3.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/math.png" /> |
-|:----------------------------:|:-------------------------------------:|:-------------------------------------:|:------------------------------:|
-| **React**                    | **iOS Development**                   | **CSS**                               | **Mathematical Modeling**      |
+| <img src="https://img.icons8.com/ios-filled/40/000000/react-native.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/swift.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/css3.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/intellij-idea.png"/> |
+|:----------------------------:|:-------------------------------------:|:----------------------------------:|:----------------------------------:|
+| **React**                   | **Swift**                             | **CSS**                            | **JetBrains IntelliJ IDEA**        |
 
-| <img src="https://img.icons8.com/ios-filled/40/000000/matrix.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/line-chart.png" /> |
-|:----------------------------:|:------------------------------------:|
-| **Linear Algebra**           | **Predictive Modeling**              |
+---
+
+## Concepts
+
+| <img src="https://img.icons8.com/ios-filled/40/000000/math.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/artificial-intelligence.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/neural-network.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/matrix.png"/> |
+|:-----------------------------:|:-------------------------------------:|:----------------------------------:|:----------------------------------:|
+| **Mathematical Modeling**    | **Artificial Intelligence**           | **Deep Learning**                  | **Linear Algebra**                 |
+
+| <img src="https://img.icons8.com/ios-filled/40/000000/line-chart.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/agile.png"/> |
+|:------------------------------:|:----------------------------------:|
+| **Predictive Modeling**       | **Agile Methodology**              |
 
 ---
 
 ## Human-Computer Interaction
 
-| <img src="https://img.icons8.com/ios-filled/40/000000/vision.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/eye-tracking.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/experiment.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/intellij-idea.png" /> |
-|:----------------------------:|:------------------------------------:|:-------------------------------------:|:--------------------------------------:|
-| **Apple Vision Pro**        | **Eye Tracking**                     | **Design of Experiments (DOE)**      | **JetBrains IntelliJ IDEA**            |
+| <img src="https://img.icons8.com/ios-filled/40/000000/vision.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/eye-tracking.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/experiment.png"/> |
+|:------------------------------:|:----------------------------------:|:----------------------------------:|
+| **Apple Vision Pro**          | **Eye Tracking**                   | **Design of Experiments (DOE)**   |
 
 ---
 
 ## Project Management
 
-| <img src="https://img.icons8.com/ios-filled/40/000000/agile.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/github.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/gitlab.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/git.png" /> |
-|:-----------------------------:|:----------------------------------:|:------------------------------:|:------------------------------:|
-| **Agile Development**         | **GitHub**                         | **GitLab**                     | **Version Control (Git)**      |
+| <img src="https://img.icons8.com/ios-filled/40/000000/github.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/gitlab.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/git.png"/> |
+|:------------------------------:|:----------------------------------:|:-------------------------------:|
+| **GitHub**                    | **GitLab**                         | **Version Control (Git)**       |
 
-| <img src="https://img.icons8.com/ios-filled/40/000000/teamwork.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/money.png" /> |
-|:------------------------------:|:-----------------------------:|
-| **Team Management**           | **Budgeting**                 |
+| <img src="https://img.icons8.com/ios-filled/40/000000/teamwork.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/money.png"/> |
+|:-------------------------------:|:----------------------------------:|
+| **Team Management**            | **Budgeting**                      |
 
 ---
 
 ## Tools & Platforms
 
-| <img src="https://img.icons8.com/ios-filled/40/000000/chatgpt.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/tableau-software.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/power-bi.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/qlikview.png" /> |
-|:-----------------------------:|:---------------------------------:|:-----------------------------:|:------------------------------:|
-| **ChatGPT**                  | **Tableau**                      | **Power BI**                  | **QlikSense**                 |
+| <img src="https://img.icons8.com/ios-filled/40/000000/chatgpt.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/tableau-software.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/power-bi.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/qlikview.png"/> |
+|:------------------------------:|:----------------------------------:|:-------------------------------:|:------------------------------:|
+| **ChatGPT**                   | **Tableau**                        | **Power BI**                    | **QlikSense**                 |
 
-| <img src="https://img.icons8.com/ios-filled/40/000000/microsoft-office-2019.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/canva.png" /> |
+| <img src="https://img.icons8.com/ios-filled/40/000000/microsoft-office-2019.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/canva.png"/> |
 |:----------------------------------:|:----------------------------:|
 | **Microsoft Office Suite**        | **Canva**                   |
