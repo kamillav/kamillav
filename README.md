@@ -39,13 +39,12 @@ CS • Data Insights • Predictive Modeling • Python & SQL • VR & Decision 
 ---
 ### 💡 Concepts
 
-| <img src="https://img.icons8.com/?size=100&id=jbs5Q5kpqd19&format=png&color=000000" width="40" height="40"/> | <img src="https://img.icons8.com/?size=100&id=oOOSYZyuA844&format=png&color=000000" width="40" height="40"/> | <img src="https://img.icons8.com/?size=100&id=q7wteb2_yVxu&format=png&color=000000" width="40" height="40"/> | <img src="https://img.icons8.com/?size=100&id=kk3BqViMnkhz&format=png&color=000000" width="40" height="40"/> |
-|:--:|:--:|:--:|:--:|
-| **Mathematical Modeling** | **Deep Learning** | **Artificial Intelligence** | **Linear Algebra** |
+| <img src="https://img.icons8.com/?size=100&id=jbs5Q5kpqd19&format=png&color=000000" width="40" height="40"/> | <img src="https://img.icons8.com/?size=100&id=oOOSYZyuA844&format=png&color=000000" width="40" height="40"/> | <img src="https://img.icons8.com/?size=100&id=q7wteb2_yVxu&format=png&color=000000" width="40" height="40"/> | <img src="https://img.icons8.com/?size=100&id=kk3BqViMnkhz&format=png&color=000000" width="40" height="40"/> | <img src="https://img.icons8.com/?size=100&id=7rmVpKQPD91Q&format=png&color=000000" width="40" height="40"/> | <img src="https://img.icons8.com/?size=100&id=OBEx6ONVpZoo&format=png&color=000000" width="40" height="40"/> |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| **Mathematical Modeling** | **Deep Learning** | **Artificial Intelligence** | **Linear Algebra** | **Predictive Modeling** | **Agile Methodology** |
 
-| <img src="https://img.icons8.com/?size=100&id=7rmVpKQPD91Q&format=png&color=000000" width="40" height="40"/> | <img src="https://img.icons8.com/?size=100&id=OBEx6ONVpZoo&format=png&color=000000" width="40" height="40"/> |
-|:--:|:--:|
-| **Predictive Modeling** | **Agile Methodology** |
+
+
 
 ---
 
