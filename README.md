@@ -36,7 +36,7 @@ CS • Data Insights • Predictive Modeling • Python & SQL • VR & Decision 
 |:--:|:--:|:--:|:--:|
 | **Python** | **PyTorch** | **R** | **Java** |
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/> | <img src="https://img.icons8.com/?size=100&id=Lk9yC4HS5r3p&format=png&color=000000" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/> |
 |:--:|:--:|:--:|:--:|
 | **JavaScript** | **Kotlin** | **SQL** | **React** |
 
