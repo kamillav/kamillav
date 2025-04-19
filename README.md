@@ -1,6 +1,6 @@
 # Hey, I'm Kamilla Volkova
 
-CS • Data Insights • Predictive Modeling • Python & SQL • VR & Decision Science Research • Trinity ’26 [kamillav](https://github.com/kamillav)
+CS • Data Insights • Predictive Modeling • Python & SQL • VR & Decision Science Research • Trinity ’26
 
 ## 🔭 I’m currently working on
 - **Apple Vision Pro 🍏 study for Attention Research**
