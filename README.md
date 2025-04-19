@@ -32,13 +32,9 @@ CS • Data Insights • Predictive Modeling • Python & SQL • VR & Decision 
 
 ### Programming & Data Analysis
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> |
-|:--:|:--:|:--:|:--:|
-| **Python** | **PyTorch** | **R** | **Java** |
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/> | <img src="https://img.icons8.com/?size=100&id=Lk9yC4HS5r3p&format=png&color=000000" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/> |
-|:--:|:--:|:--:|:--:|
-| **JavaScript** | **Kotlin** | **SQL** | **React** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/> | <img src="https://img.icons8.com/?size=100&id=Lk9yC4HS5r3p&format=png&color=000000" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/> |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| **Python** | **PyTorch** | **R** | **Java** | **JavaScript** | **Kotlin** | **SQL** | **React** |
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> | <img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/> |
 |:--:|:--:|:--:|:--:|
