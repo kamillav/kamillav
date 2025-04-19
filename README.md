@@ -1,43 +1,34 @@
 # Hey, I'm Kamilla Volkova
 
-Full-ride Scholar & Student Leader - Trinity College || Art Sphere Creator || CS & Neuroscience || Perception Researcher || [kamillav](https://github.com/kamillav)
+CS •Data Insights • Predictive Modeling • Python & SQL • VR & Decision Science Research • Trinity ’26 [kamillav](https://github.com/kamillav)
 
 ## 🔭 I’m currently working on
-- **Art Sphere**
 - **Apple Vision Pro 🍏 study for Attention Research**
+- **Predicting internal bias using Machine Learning**
+- **Art Sphere -- platform for personal art collections**
+
 
 ## 🌱 I’m currently learning
-- **Database Fundamentals**
 - **Machine Learning & Artificial Intelligence**
+- **Database Fundamentals**
 - **Human-Computer Interaction**
 - **Computer Systems**
 
 ## 💬 Ask me about
-- **Frontend Development**
+- **Data Management**
 - **Eye Tracking**
-- **Data Analysis**
-- **Software Development**
+- **Interdisciplinary Computer Science**
 
 ## 📫 How to reach me
 - Email: **kamilla.volkova@trincoll.edu**
 - LinkedIn: [kamillavolkova](https://www.linkedin.com/in/kamillavolkova/)
 
-## ⚡ Presentations & Honors
+## ⚡ Awards & Talks
 - **Art Sphere** 2nd Best Prize at WesHack | Nov 2024
 - **Last Mile** CS student award | Nov 2024
 - **VSS** Poster Presenation | May 2024 
 
 ## 🛠️ Tools and Languages:
-- **Python**
-- **RStudio** (GLME/GLM/MLE)
-- **Java**
-- **JavaScript**
-- **Swift**
-- **CSS**
-
-# Technologies & Skills I Work With
-
-Here’s a grid of the technologies and skills I’m proficient in:
 
 ## Programming & Data Analysis
 
