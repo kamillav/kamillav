@@ -71,9 +71,6 @@ CS • Data Insights • Predictive Modeling • Python & SQL • VR & Decision 
 |:--:|:--:|:--:|:--:|
 | **GitHub** | **GitLab** | **Version Control** | **Team Management** |
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40" height="40"/> |
-|:--:|
-| **Budgeting** |
 
 ---
 
