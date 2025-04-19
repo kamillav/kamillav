@@ -45,45 +45,44 @@ CS • Data Insights • Predictive Modeling • Python & SQL • VR & Decision 
 | **Swift** | **CSS** | **Flask** | **Spring Boot** |
 
 ---
-
 ### 💡 Concepts
 
-| <img src="https://img.icons8.com/ios-filled/40/000000/math.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/artificial-intelligence.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/neural-network.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/matrix.png"/> |
+| <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Matplotlib-Dark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ai/ai-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/> |
 |:--:|:--:|:--:|:--:|
-| **Mathematical Modeling** | **Artificial Intelligence** | **Deep Learning** | **Linear Algebra** |
+| **Mathematical Modeling** | **Deep Learning** | **Artificial Intelligence** | **Linear Algebra** |
 
-| <img src="https://img.icons8.com/ios-filled/40/000000/line-chart.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/agile.png"/> |  |  |
-|:--:|:--:|:--:|:--:|
-| **Predictive Modeling** | **Agile Methodology** |  |  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/> |
+|:--:|:--:|
+| **Predictive Modeling** | **Agile Methodology** |
 
 ---
 
 ### 🧠 Human-Computer Interaction
 
-| <img src="https://img.icons8.com/ios-filled/40/000000/vision.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/eye-tracking.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/experiment.png"/> |  |
-|:--:|:--:|:--:|:--:|
-| **Apple Vision Pro** | **Eye Tracking** | **Design of Experiments (DOE)** |  |
+| <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Figma-Dark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/FramerMotion-Dark.svg" width="40" height="40"/> |
+|:--:|:--:|
+| **Eye Tracking** | **Design of Experiments (DOE)** |
 
 ---
 
 ### 📂 Project Management
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/> | <img src="https://img.icons8.com/ios-filled/40/000000/teamwork.png"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/> |
 |:--:|:--:|:--:|:--:|
 | **GitHub** | **GitLab** | **Version Control (Git)** | **Team Management** |
 
-| <img src="https://img.icons8.com/ios-filled/40/000000/money.png"/> |  |  |  |
-|:--:|:--:|:--:|:--:|
-| **Budgeting** |  |  |  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40" height="40"/> |
+|:--:|
+| **Budgeting** |
 
 ---
 
-### ⚙️ Tools & Platforms
+### ⚙️ Platforms
 
-| <img src="https://img.icons8.com/ios-filled/40/000000/chatgpt.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/tableau-software.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/power-bi.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/qlikview.png"/> |
+| <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/OpenAI-Dark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> |
 |:--:|:--:|:--:|:--:|
-| **ChatGPT** | **Tableau** | **Power BI** | **QlikSense** |
+| **ChatGPT / OpenAI** | **Tableau** | **Power BI** | **QlikSense** |
 
-| <img src="https://img.icons8.com/ios-filled/40/000000/microsoft-office-2019.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/canva.png"/> |  |  |
-|:--:|:--:|:--:|:--:|
-| **Microsoft Office Suite** | **Canva** |  |  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Canva-Dark.svg" width="40" height="40"/> |
+|:--:|:--:|
+| **Microsoft Office Suite** | **Canva** |
