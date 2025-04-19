@@ -5,7 +5,7 @@ CS • Data Insights • Predictive Modeling • Python & SQL • VR & Decision 
 ## 🔭 I’m currently working on
 - **Apple Vision Pro 🍏 study for Attention Research**
 - **Predicting internal bias using Machine Learning**
-- **Art Sphere -- platform for personal art collections**
+- **Art Sphere - platform for personal art navigator**
 
 
 ## 🌱 I’m currently learning
