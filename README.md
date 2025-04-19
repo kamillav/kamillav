@@ -30,6 +30,7 @@ CS • Data Insights • Predictive Modeling • Python & SQL • VR & Decision 
 
 ## 🛠️ Tools and Languages:
 
+
 ## Programming & Data Analysis
 
 | <img src="https://img.icons8.com/ios-filled/40/000000/python.png" /> | <img src="https://img.icons8.com/ios-filled/40/artificial-intelligence.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/r-project.png" /> | <img src="https://img.icons8.com/ios-filled/40/000000/combo-chart.png" /> |
