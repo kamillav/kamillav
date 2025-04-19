@@ -32,9 +32,9 @@ CS • Data Insights • Predictive Modeling • Python & SQL • VR & Decision 
 
 ## Programming & Data Analysis
 
-| <img src="https://img.icons8.com/ios-filled/40/000000/python.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/artificial-intelligence.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/r-project.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/combo-chart.png"/> |
+| <img src="https://img.icons8.com/ios-filled/40/000000/python.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/artificial-intelligence.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/r-project.png"/> ||
 |:-----------------------------:|:-------------------------------------:|:----------------------------------:|:----------------------------------:|
-| **Python**                   | **PyTorch**                           | **R**                        | **Statistical Modeling**           |
+| **Python**                   | **PyTorch**                           | **R**                                 
 
 | <img src="https://img.icons8.com/ios-filled/40/000000/api.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/brain.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/flask.png"/> | <img src="https://img.icons8.com/ios-filled/40/000000/spring-logo.png"/> |
 |:----------------------------:|:-------------------------------------:|:----------------------------------:|:----------------------------------:|
