@@ -40,7 +40,7 @@ CS • Data Insights • Predictive Modeling • Python & SQL • VR & Decision 
 |:--:|:--:|:--:|:--:|
 | **JavaScript** | **Kotlin** | **SQL** | **React** |
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> | <img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/> |
 |:--:|:--:|:--:|:--:|
 | **Swift** | **CSS** | **Flask** | **Spring Boot** |
 
