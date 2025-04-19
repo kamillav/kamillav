@@ -36,25 +36,17 @@ CS • Data Insights • Predictive Modeling • Python & SQL • VR & Decision 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | **Python** | **PyTorch** | **R** | **Java** | **JavaScript** | **Kotlin** | **SQL** | **React** | **Swift** | **CSS** | **Flask** | **Spring Boot** |
 
----
 ### 💡 Concepts
 
 | <img src="https://img.icons8.com/?size=100&id=jbs5Q5kpqd19&format=png&color=000000" width="40" height="40"/> | <img src="https://img.icons8.com/?size=100&id=oOOSYZyuA844&format=png&color=000000" width="40" height="40"/> | <img src="https://img.icons8.com/?size=100&id=q7wteb2_yVxu&format=png&color=000000" width="40" height="40"/> | <img src="https://img.icons8.com/?size=100&id=kk3BqViMnkhz&format=png&color=000000" width="40" height="40"/> | <img src="https://img.icons8.com/?size=100&id=7rmVpKQPD91Q&format=png&color=000000" width="40" height="40"/> | <img src="https://img.icons8.com/?size=100&id=OBEx6ONVpZoo&format=png&color=000000" width="40" height="40"/> |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | **Mathematical Modeling** | **Deep Learning** | **Artificial Intelligence** | **Linear Algebra** | **Predictive Modeling** | **Agile Methodology** |
 
-
-
-
----
-
 ### 🧠 Human-Computer Interaction
 
 | <img src="https://img.icons8.com/?size=100&id=iwWZfhukCqb9&format=png&color=000000" width="40" height="40"/> | <img src="https://img.icons8.com/?size=100&id=46883&format=png&color=000000" width="40" height="40"/> |
 |:--:|:--:|
 | **Eye Tracking** | **Design of Experiments (DOE)** |
-
----
 
 ### 📂 Project Management
 
@@ -63,14 +55,3 @@ CS • Data Insights • Predictive Modeling • Python & SQL • VR & Decision 
 | **GitHub** | **GitLab** | **Version Control** | **Team Management** |
 
 
----
-
-### ⚙️ Platforms
-
-| <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/OpenAI-Dark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> |
-|:--:|:--:|:--:|:--:|
-| **ChatGPT / OpenAI** | **Tableau** | **Power BI** | **QlikSense** |
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Canva-Dark.svg" width="40" height="40"/> |
-|:--:|:--:|
-| **Microsoft Office Suite** | **Canva** |
