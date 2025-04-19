@@ -51,7 +51,7 @@ CS • Data Insights • Predictive Modeling • Python & SQL • VR & Decision 
 |:--:|:--:|:--:|:--:|
 | **Mathematical Modeling** | **Deep Learning** | **Artificial Intelligence** | **Linear Algebra** |
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/> |
+| <img src="https://img.icons8.com/?size=100&id=7rmVpKQPD91Q&format=png&color=000000" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/> |
 |:--:|:--:|
 | **Predictive Modeling** | **Agile Methodology** |
 
