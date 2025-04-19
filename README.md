@@ -54,4 +54,4 @@ CS • Data Insights • Predictive Modeling • Python & SQL • VR & Decision 
 |:--:|:--:|:--:|:--:|
 | **GitHub** | **GitLab** | **Version Control** | **Team Management** |
 
-
+ 
